@@ -1,0 +1,25 @@
+{
+  "name": "bcv-rates",
+  "version": "1.0.0",
+  "description": "An open-source library that utilizes web scraping techniques to retrieve the official exchange rates from the Banco Central de Venezuela (BCV) https://www.bcv.org.ve/. This library is designed for educational purposes only. It aims to provide a simple and convenient way to access real-time exchange rate data for various currencies.",
+  "keywords": [
+    "bcv",
+    "bcv-rates",
+    "bcv-scraper",
+    "bcv-api",
+    "bcv-venezuela"
+  ],
+  "type": "module",
+  "main": "src/index.js",
+  "author": "Larry Finol <larrysfionlb@gmail.com> (https://larrysfinolb.netlify.app/)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larrysfinolb/bcv-rates.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/larrysfinolb/bcv-rates#readme",
+  "dependencies": {
+    "@extractus/article-extractor": "^8.0.10"
+  }
+}
